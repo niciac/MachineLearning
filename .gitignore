@@ -197,4 +197,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Ignore the DATASETS folder
+Datasets
+
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
