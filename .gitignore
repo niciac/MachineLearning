@@ -200,4 +200,8 @@ $RECYCLE.BIN/
 # Ignore the DATASETS folder
 Datasets
 
+# Ignore variables.json
+variables.json 
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
