@@ -203,5 +203,8 @@ Datasets
 # Ignore variables.json
 variables.json 
 
+# Ignore math4mlpdf
+math4ml.pdf
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
