@@ -197,14 +197,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Ignore the DATASETS folder
-Datasets
-
-# Ignore variables.json
-variables.json 
+# End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
 
 # Ignore math4mlpdf
 math4ml.pdf
 
+# Ignore the DATASETS folder
+Datasets
 
-# End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
+# Ignore certificates
+niciac - Intro to Machine Learning - Kaggle Certificate.png
+niciac - Python - Kaggle certificate.png
