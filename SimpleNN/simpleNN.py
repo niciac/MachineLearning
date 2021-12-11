@@ -36,5 +36,3 @@ X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 print("XOR", neural_network(X, np.array([[0, 1, 1, 0]]).T))
 # print("NAND", neural_network(X, np.array([[0, 1, 1, 1]]).T))
 # print("NOR", neural_network(X, np.array([[1, 0, 0, 0]]).T))
-
-print(layer_list)
