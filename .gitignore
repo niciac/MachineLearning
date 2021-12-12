@@ -199,8 +199,9 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
 
-# Ignore PDFs
+# Ignore PDFs and PNGs
 *.pdf
+*.png
 
 # Ignore the DATASETS folder
 Datasets
