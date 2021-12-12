@@ -204,7 +204,4 @@ math4ml.pdf
 
 # Ignore the DATASETS folder
 Datasets
-
-# Ignore certificates
-niciac - Intro to Machine Learning - Kaggle Certificate.png
-niciac - Python - Kaggle certificate.png
+config.ini
