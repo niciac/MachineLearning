@@ -199,8 +199,8 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
 
-# Ignore math4mlpdf
-math4ml.pdf
+# Ignore PDFs
+*.pdf
 
 # Ignore the DATASETS folder
 Datasets
