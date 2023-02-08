@@ -200,10 +200,18 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows
 
 # Ignore PDFs and PNGs
-*.pdf
-*.png
+**/*.pdf
+**/*.png
 
 # Ignore the DATASETS folder
-Datasets
-config.ini
-Udemy
+Datasets/
+Udemy/
+Kaggle/
+
+# ignore icloud uploads
+**/*.icloud
+
+# Datapane stuff
+hello.py
+*.html
+datapane*
