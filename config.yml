@@ -1,2 +1,3 @@
 paths:
-  dataset_path : ~/Documents/VSCode/MachineLearning/Datasets
+  dataset_path :
+    titanic : ~kaggle_datasets/titanic
