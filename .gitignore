@@ -218,3 +218,6 @@ datapane*
 
 # Studio Code environment settings
 .vscode
+
+# Separate .gitattributes for each branch
+.gitattributes
