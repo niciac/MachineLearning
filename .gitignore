@@ -215,3 +215,6 @@ Kaggle/
 hello.py
 *.html
 datapane*
+
+# Studio Code environment settings
+.vscodes
