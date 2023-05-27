@@ -221,3 +221,5 @@ datapane*
 
 # Separate .gitattributes for each branch
 .gitattributes
+config.*
+
