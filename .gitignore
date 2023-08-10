@@ -207,19 +207,14 @@ $RECYCLE.BIN/
 Datasets/
 Udemy/
 Kaggle/
+Certifications/
 
 # ignore icloud uploads
 **/*.icloud
 
-# Datapane stuff
-hello.py
-*.html
-datapane*
-
 # Studio Code environment settings
 .vscode
 
-# Separate .gitattributes for each branch
-.gitattributes
+# config file
 config.*
 
