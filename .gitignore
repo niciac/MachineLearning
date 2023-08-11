@@ -204,10 +204,11 @@ $RECYCLE.BIN/
 **/*.png
 
 # Ignore the DATASETS folder
-Datasets/
-Udemy/
-Kaggle/
 Certifications/
+Datasets/
+Kaggle/
+Reading\ Material/
+Udemy/
 
 # ignore icloud uploads
 **/*.icloud
